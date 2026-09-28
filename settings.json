@@ -1,7 +1,7 @@
 {
   "name": "Akhlys",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Akhlys",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Akhlys"
     },
     "anti-afk": {
       "enabled": true,
