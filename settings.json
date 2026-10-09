@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "akhlys.aternos.me",
-    "port": 49903,
+    "ip": "akhlys.joinmc.world",
+    "port": 11825,
     "version": "1.20.1",
     "try-creative": false
   },
