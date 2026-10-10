@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "akhlys.joinmc.world",
+    "ip": "delhi-559818.indernos.in",
     "port": 11825,
     "version": "1.20.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Akhlys"
+      "password": "/register Akhlys Akhlys"
     },
     "anti-afk": {
       "enabled": true,
